@@ -23,6 +23,13 @@ style.css
 		padding-bottom: 30px;
 	}
 
+	h3{
+		color: #c9b844;
+		font-family: 'roboto slab';
+		line-height: 0px;
+		padding-top: 20px;
+	}
+
 	p {
 		color: #454a57
 	}
