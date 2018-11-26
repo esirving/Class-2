@@ -16,19 +16,19 @@ style.css
 
 	h1 {
 		color: #454a57;
-		font-family: 'roboto slab';
+		font-family: 'Roboto Slab', serif;
 	}
 
 	h2{
 		color: #454a57;
-		font-family: 'roboto slab';
+		font-family: 'Roboto Slab', serif;
 		line-height: 0px;
 		padding-bottom: 30px;
 	}
 
 	h3{
 		color: #c9b844;
-		font-family: 'roboto slab';
+		font-family: 'Roboto Slab', serif;
 		line-height: 0px;
 		padding-top: 20px;
 	}
@@ -40,13 +40,13 @@ style.css
 		ol, ul {
 	  font-weight: bold;
 	  color: #c9b844;
-	  font-family: 'roboto-slab';
+	  font-family: 'Roboto Slab', serif;
 	}
 
 	li {
 		font-weight: normal;
 		color: #454a57;
-		font-family: 'roboto';
+		font-family: 'Roboto', sans-serif;
 		padding-bottom: 1px;
 	}
 
