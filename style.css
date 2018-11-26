@@ -63,6 +63,12 @@ style.css
 	    		text-decoration: underline;
 	}
 
+	div.sticky {
+    position: sticky;
+    top: 0px;
+    background: #fff
+}
+
 @keyframes fadein {
     from {opacity: 0;}
     to {opacity: 1;}
