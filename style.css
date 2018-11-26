@@ -1,5 +1,6 @@
 style.css
 
+
 	body {
 		text-align: left;
 	}
@@ -61,3 +62,14 @@ style.css
 	    		color: #c9b844;
 	    		text-decoration: underline;
 	}
+
+@keyframes fadein {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+.wrapper {
+    animation-name: fadein;
+    animation-duration: 1.5s;
+}
+}
