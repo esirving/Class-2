@@ -37,10 +37,11 @@ style.css
 		color: #454a57
 	}
 		
-		ol, ul {
-	  font-weight: bold;
-	  color: #c9b844;
-	  font-family: 'Roboto Slab', serif;
+	ol, ul {
+			list-style-type: none;
+	  		font-weight: bold;
+	  		color: #c9b844;
+	  		font-family: 'Roboto Slab', serif;
 	}
 
 	li {
