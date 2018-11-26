@@ -9,7 +9,7 @@ style.css
 	    width: auto; 
 	    max-width: 300px; 
 	    max-height: 300px;
-}
+	}
 
 	h1 {
 		color: #454a57;
@@ -43,14 +43,14 @@ style.css
 	a:link {
     		color: #454a57;
     		text-decoration: underline;
-}
+	}
 
-a:visited {
-    		color: #454a57;
-    		text-decoration: underline;
-}
+	a:visited {
+	    		color: #454a57;
+	    		text-decoration: underline;
+	}
 
-a:hover {
-    		color: #c9b844;
-    		text-decoration: underline;
-}
+	a:hover {
+	    		color: #c9b844;
+	    		text-decoration: underline;
+	}
