@@ -28,7 +28,7 @@ style.css
 	}
 		
 		ol, ul {
-	  font-weight:bold;
+	  font-weight: bold;
 	  color: #c9b844;
 	  font-family: 'roboto-slab';
 	}
@@ -37,7 +37,7 @@ style.css
 		font-weight: normal;
 		color: #454a57;
 		font-family: 'roboto';
-		padding-bottom: 5px;
+		padding-bottom: 1px;
 	}
 
 	a:link {
